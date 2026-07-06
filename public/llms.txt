@@ -1,0 +1,83 @@
+# NextGen Tabletops — Generative Engine Optimization Map
+
+> A fun and engaging platform dedicated to board games and card games designed for children and teenagers. The brand revolves around play, discovery, and age-appropriate entertainment, offering a curated selection of games that spark creativity, strategy, and social interaction among young audiences.
+
+---
+
+## Pages
+
+### Home
+https://nextgen-tabletops-2869471b.zappy5.app
+Discover a curated universe of board games and card games that ignite creativity and strategy in kids and teens. Find the perfect Gifts for Children and start playing today!
+
+### How to Choose
+https://nextgen-tabletops-2869471b.zappy5.app/how-to-choose
+Master the art of selecting age-appropriate board games and card games. Our guide helps you match Gifts for Teenagers with their interests for endless discovery and social fun.
+
+### About
+https://nextgen-tabletops-2869471b.zappy5.app/about
+We curate board games and card games that spark imagination and connection. Learn how NextGen Tabletops champions play, discovery, and the best Gifts for Children.
+
+### Contact
+https://nextgen-tabletops-2869471b.zappy5.app/contact
+Have questions about our card games or need help picking Gifts for Teenagers? Reach out to the NextGen Tabletops team and turn playtime into the best part of their day.
+
+### Products
+https://nextgen-tabletops-2869471b.zappy5.app/products
+Our Products - NextGen Tabletops
+
+### Product Detail
+https://nextgen-tabletops-2869471b.zappy5.app/product/:slug
+Product Details - NextGen Tabletops
+
+### Category
+https://nextgen-tabletops-2869471b.zappy5.app/category/:slug
+Products - NextGen Tabletops
+
+### Thank You | NextGen Tabletops
+https://nextgen-tabletops-2869471b.zappy5.app/thank-you
+NextGen Tabletops - Thank You | NextGen Tabletops
+
+## Legal & Policy
+
+### Privacy Policy
+https://nextgen-tabletops-2869471b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nextgen-tabletops-2869471b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nextgen-tabletops-2869471b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About NextGen Tabletops
+A fun and engaging platform dedicated to board games and card games designed for children and teenagers. The brand revolves around play, discovery, and age-appropriate entertainment, offering a curated selection of games that spark creativity, strategy, and social interaction among young audiences.
+
+## Target Audience
+- children and teenagers
+- Parental Purchasers
+
+## Industry
+Toys & Games
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://nextgen-tabletops-2869471b.zappy5.app/sitemap.xml
+- Robots: https://nextgen-tabletops-2869471b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://nextgen-tabletops-2869471b.zappy5.app/llms-full.txt
+- Products (JSON): https://nextgen-tabletops-2869471b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://nextgen-tabletops-2869471b.zappy5.app/product-feed.xml
