@@ -7,49 +7,49 @@
 ## Pages
 
 ### Home
-https://nextgen-tabletops-2869471b.zappy5.app
+https://example.com
 Discover a curated universe of board games and card games that ignite creativity and strategy in kids and teens. Find the perfect Gifts for Children and start playing today!
 
 ### How to Choose
-https://nextgen-tabletops-2869471b.zappy5.app/how-to-choose
+https://example.com/how-to-choose
 Master the art of selecting age-appropriate board games and card games. Our guide helps you match Gifts for Teenagers with their interests for endless discovery and social fun.
 
 ### About
-https://nextgen-tabletops-2869471b.zappy5.app/about
+https://example.com/about
 We curate board games and card games that spark imagination and connection. Learn how NextGen Tabletops champions play, discovery, and the best Gifts for Children.
 
 ### Contact
-https://nextgen-tabletops-2869471b.zappy5.app/contact
+https://example.com/contact
 Have questions about our card games or need help picking Gifts for Teenagers? Reach out to the NextGen Tabletops team and turn playtime into the best part of their day.
 
 ### Products
-https://nextgen-tabletops-2869471b.zappy5.app/products
+https://example.com/products
 Our Products - NextGen Tabletops
 
 ### Product Detail
-https://nextgen-tabletops-2869471b.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - NextGen Tabletops
 
 ### Category
-https://nextgen-tabletops-2869471b.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - NextGen Tabletops
 
 ### Thank You | NextGen Tabletops
-https://nextgen-tabletops-2869471b.zappy5.app/thank-you
+https://example.com/thank-you
 NextGen Tabletops - Thank You | NextGen Tabletops
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://nextgen-tabletops-2869471b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://nextgen-tabletops-2869471b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://nextgen-tabletops-2869471b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -76,8 +76,8 @@ Toys & Games
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://nextgen-tabletops-2869471b.zappy5.app/sitemap.xml
-- Robots: https://nextgen-tabletops-2869471b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://nextgen-tabletops-2869471b.zappy5.app/llms-full.txt
-- Products (JSON): https://nextgen-tabletops-2869471b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://nextgen-tabletops-2869471b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
