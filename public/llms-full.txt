@@ -57,7 +57,6 @@ Unleash Epic Play with Toys & Games — NextGen Tabletops
 
 
 
-
 Skip to main content
 
 
@@ -494,11 +493,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -506,13 +505,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -548,7 +543,6 @@ URL: https://example.com/how-to-choose
 Description: Master the art of selecting age-appropriate board games and card games. Our guide helps you match Gifts for Teenagers with their interests for endless discovery and social fun.
 
 Pick Perfect Games for Young Minds — NextGen Tabletops
-
 
 
 
@@ -872,11 +866,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -884,13 +878,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -926,7 +916,6 @@ URL: https://example.com/about
 Description: We curate board games and card games that spark imagination and connection. Learn how NextGen Tabletops champions play, discovery, and the best Gifts for Children.
 
 Meet the Mission Behind the Play — NextGen Tabletops
-
 
 
 
@@ -1196,11 +1185,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -1208,13 +1197,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1250,7 +1235,6 @@ URL: https://example.com/contact
 Description: Have questions about our card games or need help picking Gifts for Teenagers? Reach out to the NextGen Tabletops team and turn playtime into the best part of their day.
 
 Let's Talk Games & Epic Gifting — NextGen Tabletops
-
 
 
 
@@ -1509,11 +1493,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -1521,13 +1505,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1560,7 +1540,6 @@ URL: https://example.com/products
 Description: Our Products - NextGen Tabletops
 
 Products - NextGen Tabletops
-
 
 
 
@@ -1722,11 +1701,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -1734,13 +1713,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1776,7 +1751,6 @@ URL: https://example.com/product/:slug
 Description: Product Details - NextGen Tabletops
 
 Product Details - NextGen Tabletops
-
 
 
 
@@ -1916,11 +1890,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -1928,13 +1902,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1970,7 +1940,6 @@ URL: https://example.com/category/:slug
 Description: Products - NextGen Tabletops
 
 Products - NextGen Tabletops
-
 
 
 
@@ -2134,11 +2103,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -2146,13 +2115,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2188,7 +2153,6 @@ URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
-
 
 
 
@@ -2348,11 +2312,11 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Company: NextGen Tabletops
 
-- Email: [business_email]
+- Email: test@test.com
 
-- Phone: [business_phone]
+- Phone: 97230000000
 
-- Address: [business_address]
+- Address: Test street 38, Test city, Israel
 
 
 
@@ -2394,11 +2358,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -2406,13 +2370,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2448,7 +2408,6 @@ URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
-
 
 
 
@@ -2616,9 +2575,9 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Company: NextGen Tabletops
 
-- Email: [business_email]
+- Email: test@test.com
 
-- Phone: [business_phone]
+- Phone: 97230000000
 
 
 
@@ -2660,11 +2619,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -2672,13 +2631,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -2714,7 +2669,6 @@ URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
-
 
 
 
@@ -2905,11 +2859,11 @@ For questions or clarifications regarding the terms of use:
 
 - Company: NextGen Tabletops
 
-- Email: [business_email]
+- Email: test@test.com
 
-- Phone: [business_phone]
+- Phone: 97230000000
 
-- Address: [business_address]
+- Address: Test street 38, Test city, Israel
 
 
 
@@ -2948,11 +2902,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -2960,13 +2914,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -3179,11 +3129,11 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 #### Contact
 
 
-- [business_email]
+- test@test.com
 
-- [business_phone]
+- 97230000000
 
-- [business_address]
+- Test street 38, Test city, Israel
 
 
 
@@ -3191,13 +3141,9 @@ Bringing families together, one game at a time. We curate tabletops that spark i
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
