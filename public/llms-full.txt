@@ -976,8 +976,6 @@ Products
 
 
 
-# Who are we?
-
 ##
 
 ###
@@ -1001,9 +999,9 @@ Driven by this inspiration, Ethan founded [Insert Company Name]-a dedicated shop
 
 ###
 
-## Ethan Vance
+## Emily Taylor
 
-"Games aren't just about winning or losing; they are about the stories we build together while playing." - Ethan Vance
+"If a game doesn't make you laugh, argue passionately, or high-five a rival, we haven't done our job."
 
 Born and raised in Australia, Ethan's love affair with gaming began in his childhood, where hours spent around a table sparked a lifetime of imagination. Years later, as a father, that passion found a new purpose. Ethan began inventing custom games for his own children, turning rainy afternoons and family nights into wild, creative adventures.
 
