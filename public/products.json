@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-12T08:45:43.820Z",
+  "generated_at": "2026-07-15T10:41:31.284Z",
   "base_url": "https://example.com",
   "currency": "USD",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "2c75ac27-9687-4b84-8801-292dbe800d79",
+      "slug": "chronos-3lu2qv",
+      "name": "Chronos",
+      "name_translations": {},
+      "description": "<p>## Chronos</p><p><br></p><p>**Chronos** is a game of shard-collecting and timeline development. Players are **Time-Weavers** of the far future trying to secure temporal anomalies, historical landmarks, and ancient artifacts—all in order to acquire the most **stability points**. If you manage your timeline well enough, you might even receive a visit from an influential historical figure at some point, which of course will further increase your stability.</p><p><br></p><p>On your turn, you may:</p><p><br></p><p>* **(1) Collect Chrono-shards**, or</p><p>* **(2) Anchor a timeline card**, or</p><p>* **(3) Paradox-lock one card**.</p><p><br></p><p>If you collect shards, you take either three different kinds of shards or two shards of the same kind. If you anchor a timeline card, you pay its cost in shards and add it to your active timeline. To paradox-lock a card—in order to make sure you get to anchor it later, or, why not, your opponents don't rewrite it—you place it in front of you face down for later anchoring; this costs you a round, but you also get a **Tachyon Core** in the form of a wild-card token, which you can use as any shard.</p><p><br></p><p>All of the timeline cards you anchor increase your temporal influence as they give you a permanent shard bonus for later anchors; some of the cards also give you stability points. In order to win the game, you must reach **15 stability points** before your opponents do.</p>",
+      "short_description": "Chronos: The Paradox Engine is a game of thread-siphoning and timeline weaving. Players are Time-Weavers of a crumbling multiverse trying to buy historical nodes, alternate realities, temporal anchors—all in order to acquire the most chrono-points. If you weave enough stable threads, you might even trigger an event from an Anomaly at some point, which of course will further shake up the timeline and increase your chrono-points.\n",
+      "sku": "chronosgames",
+      "brand": "Chronos Games",
+      "price": 18,
+      "base_price": 20,
+      "sale_price": 18,
+      "currency": "USD",
+      "images": [
+        "https://example.com/assets/image-product-image-1784105071787-g7gf3m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chronos-3lu2qv",
+      "categories": [
+        "Board games"
+      ],
+      "updated_at": "2026-07-15T09:29:01.700Z"
+    }
+  ]
 }

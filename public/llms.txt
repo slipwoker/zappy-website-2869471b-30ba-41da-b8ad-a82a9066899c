@@ -6,37 +6,37 @@
 
 ## Pages
 
-### Home
+### Unleash Epic Play with Toys &amp; Games — NextGen Tabletops
 https://example.com
 Discover a curated universe of board games and card games that ignite creativity and strategy in kids and teens. Find the perfect Gifts for Children and start playing today!
 
-### How to Choose
-https://example.com/how-to-choose
-Master the art of selecting age-appropriate board games and card games. Our guide helps you match Gifts for Teenagers with their interests for endless discovery and social fun.
-
-### About
+### Meet the Mission Behind the Play — NextGen Tabletops
 https://example.com/about
 We curate board games and card games that spark imagination and connection. Learn how NextGen Tabletops champions play, discovery, and the best Gifts for Children.
 
-### Contact
-https://example.com/contact
-Have questions about our card games or need help picking Gifts for Teenagers? Reach out to the NextGen Tabletops team and turn playtime into the best part of their day.
+### Pick Perfect Games for Young Minds — NextGen Tabletops
+https://example.com/how-to-choose
+Master the art of selecting age-appropriate board games and card games. Our guide helps you match Gifts for Teenagers with their interests for endless discovery and social fun.
 
 ### Products
 https://example.com/products
 Our Products - NextGen Tabletops
 
-### Product Detail
+### Product Details
 https://example.com/product/:slug
 Product Details - NextGen Tabletops
 
-### Category
+### Products
 https://example.com/category/:slug
 Products - NextGen Tabletops
 
 ### Thank You | NextGen Tabletops
 https://example.com/thank-you
 NextGen Tabletops - Thank You | NextGen Tabletops
+
+### Let&#39;s Talk Games &amp; Epic Gifting — NextGen Tabletops
+https://example.com/contact
+Have questions about our card games or need help picking Gifts for Teenagers? Reach out to the NextGen Tabletops team and turn playtime into the best part of their day.
 
 ## Legal & Policy
 
@@ -56,7 +56,17 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### Chronos
+https://example.com/product/chronos-3lu2qv
+- Price: 18.00 USD (sale, was 20.00 USD)
+- Availability: In stock
+- Category: Board games
+- SKU: chronosgames
+- Brand: Chronos Games
+- Description: Chronos: The Paradox Engine is a game of thread-siphoning and timeline weaving. Players are Time-Weavers of a crumbling multiverse trying to buy historical nodes, alternate realities, temporal anchors—all in order to acquire the most chrono-points. If you weave enough stable threads, you might even trigger an event from an Anomaly at some point, which of course will further shake up the timeline and increase your chrono-points.
+- Image: https://example.com/assets/image-product-image-1784105071787-g7gf3m.webp
 
 ---
 
