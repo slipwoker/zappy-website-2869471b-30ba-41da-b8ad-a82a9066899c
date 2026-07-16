@@ -3249,6 +3249,62 @@ Send request
 
 
 
+# Ask for a game recommendation.
+
+
+Tell NextGen Tabletops about the players, ages, time available, and the kind of tabletop fun you are looking for.
+
+
+- Include age range
+
+- Mention group size
+
+- Share preferred game length
+
+- Note whether the group likes strategy, creativity, teamwork, or party play
+
+
+
+
+
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+
+
+
+I have read and agree to the  Terms & Conditions  |
+
+Return Policy
+and  Privacy Policy
+
+
+
+Send request
+
+
+
+
+
+
+
+
 
 ## What to include for the best guidance
 
