@@ -612,7 +612,7 @@
 
 
   
-  <!-- Favicons -->
+    <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png" />
@@ -627,12 +627,6 @@
     
 
 
-  <script>
-    window.ZAPPY_WEBSITE_ID = "2869471b-30ba-41da-b8ad-a82a9066899c";
-    // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
-    // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = "https://api.zappy5.com"</script>
-  
     
           <style id="zappy-cta-mobile-style">
             /* Hide CTA list item on desktop (tablets and up) */
@@ -1070,11 +1064,12 @@
               });
             })();
           </script>
-    <style id="zappy-critical-above-fold-css">
+        
+  <style id="zappy-critical-above-fold-css">
 html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{box-sizing:inherit}body{margin:0;min-width:320px;overflow-x:clip}img,svg,video{max-width:100%;height:auto}main{display:block}.container{width:min(100% - 32px,1200px);margin-inline:auto}.navbar,nav.navbar,header .navbar,header[role="banner"]{position:relative;z-index:1000;width:100%}.nav-container,.navbar .container{display:flex;align-items:center;justify-content:space-between;min-height:64px}.logo,.logo-link img{display:block;width:35px;height:35px;object-fit:contain}.nav-menu,#navMenu{list-style:none;margin:0;padding:0}.navbar a,.nav-menu a,#navMenu a,.navbar .nav-links a{color:inherit;text-decoration:none}.navbar .sub-menu,.nav-menu .sub-menu,#navMenu .sub-menu{display:none}.fa,.fas,.far,.fab,.fa-solid,.fa-regular,.fa-brands{display:inline-block;min-width:1em;text-align:center}html:not(#zappy-noop)[data-zappy-site-type="ecommerce"] .phone-header-btn,html:not(#zappy-noop) .navbar:has(.nav-ecommerce-icons)>.phone-header-btn{display:none!important;visibility:hidden!important;width:0!important;height:0!important;pointer-events:none!important}.zappy-preview-empty-store-cta{display:none!important;visibility:hidden!important;height:0!important;max-height:0!important;overflow:hidden!important;margin:0!important;padding:0!important;border:0!important;box-shadow:none!important}.zappy-catalog-menu{background:var(--surface-color,var(--surface,linear-gradient(135deg,#f8f9fa 0%,#fff 100%)));border-bottom:1px solid var(--border-color,#e5e7eb);padding:0;position:sticky;top:0;z-index:90}.zappy-catalog-menu[dir=rtl],.zappy-catalog-menu.rtl{direction:rtl}.zappy-catalog-menu[dir=ltr],.zappy-catalog-menu.ltr{direction:ltr}.catalog-menu-container{max-width:1440px;margin:0 auto;display:flex;align-items:center;gap:8px;padding:10px 24px;overflow:visible}.catalog-menu-categories,.catalog-menu-list{display:flex;align-items:center;gap:4px;flex-wrap:wrap;margin:0;padding:0;list-style:none}.catalog-menu-item{display:inline-flex;align-items:center;padding:8px 16px;font-size:14px;font-weight:500;color:var(--text-color,var(--text,#374151));text-decoration:none;border-radius:20px;white-space:nowrap}.catalog-menu-all{background:var(--primary-color,var(--primary,#111));color:var(--text-light,#fff)!important}.catalog-menu-parent{position:relative;display:inline-flex;align-items:center}.catalog-menu-trigger{display:inline-flex;align-items:center;gap:6px}.catalog-menu-chevron{flex-shrink:0}.catalog-menu-parent>.sub-menu{display:none!important;visibility:hidden!important;opacity:0!important;pointer-events:none!important}.hero-section,.index-hero-section,section[class*="hero"]{position:relative;overflow:hidden;min-height:560px}.hero-bg-wrapper,.hero-bg-image,section[class*="hero"] [class*="hero-bg"]{position:absolute;inset:0;width:100%;height:100%}.hero-bg-wrapper img,.hero-bg-image img,section[class*="hero"] [data-hero-bg],section[class*="hero"] img[data-hero-background="true"]{width:100%!important;height:100%!important;object-fit:cover!important;display:block}.hero-content,section[class*="hero"] .container{position:relative;z-index:2}@media(max-width:768px){:root{--header-height:72px;--total-header-height:72px;--zappy-mobile-menu-top:72px}html[data-zappy-site-type="ecommerce"] body{padding-top:var(--total-header-height,72px)}html[data-zappy-site-type="ecommerce"] body>nav.navbar,html[data-zappy-site-type="ecommerce"] body>.navbar:not(.zappy-catalog-menu){position:fixed!important;top:0;left:0;right:0;z-index:100000;width:100%;margin-bottom:0}.zappy-catalog-menu{position:fixed;top:var(--header-height,72px);left:0;right:0;z-index:99999}.nav-container,.navbar .container{min-height:60px}.nav-menu,#navMenu{max-width:100vw;overflow-x:hidden}.hero-section,.index-hero-section,section[class*="hero"]{min-height:100svh}.hero-bg-wrapper,.hero-bg-image,.hero-scrim{min-height:100svh}}
-/* ZAPPY_CRITICAL_FIRST_PAINT_PARITY_V1 */
+:root{--nav-bg:#FFFFFF}.navbar{background-color:#FFFFFF!important}
 
-/* ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V2 */
+/* ZAPPY_ANNOUNCEMENT_HEADER_OFFSET_CSS_V3 */
 :root {
   --zappy-header-stack-height: calc(var(--zappy-announcement-height, 40px) + var(--header-height, 72px));
 }
@@ -1083,15 +1078,7 @@ body:has(.zappy-announcement-bar) header.navbar,
 body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-search-panel) {
   top: var(--zappy-announcement-height, 40px) !important;
 }
-/* First-paint: pull fullscreen heroes behind the fixed announcement+nav so a
-   transparent --nav-bg does not flash the cream body strip (live FOUC that
-   preview never showed because preview injects the same underlap eagerly). */
-body:has(.zappy-announcement-bar) section[data-hero-type^="fullscreen"],
-body:has(.zappy-announcement-bar) .index-hero-section,
-body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
-  margin-top: calc(-1 * var(--zappy-header-stack-height)) !important;
-  padding-top: calc(var(--zappy-header-stack-height)) !important;
-}
+
 
 
 /* ZAPPY_CONTENT_ALIGNMENT_FIRST_PAINT_CSS_V1 */
@@ -1128,10 +1115,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 }
 
 </style>
-    <link rel="preload" href="/styles.css" as="style" />
-    <link rel="stylesheet" href="/styles.css" media="print" onload="this.media='all'" />
-    <noscript><link rel="stylesheet" href="/styles.css" /></noscript>
-    
+    <link rel="stylesheet" href="/styles.css" />
 
     <style id="zappy-widget-visibility">
       html[dir="rtl"] .whatsapp-float { right: 20px !important; left: auto !important; }
@@ -1171,7 +1155,15 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     </style>
 </head>
 <body>
-<div class="mobile-search-panel" id="mobile-search-panel">
+
+  <script>
+    window.ZAPPY_WEBSITE_ID = "2869471b-30ba-41da-b8ad-a82a9066899c";
+    // Preview pages are served by the current Zappy origin, which may be a
+    // remote tunnel/QA host rather than this server's baked SERVER_URL.
+    // Deployed sites are static and must call the public Zappy API (never localhost).
+    window.ZAPPY_API_BASE = "https://api.zappy5.com"</script>
+  
+    <div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="Search products..." autocomplete="off" />
         <button class="search-submit" id="mobile-search-submit" title="Search">
@@ -1201,7 +1193,20 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
     <div class="nav-brand">
       <a href="/" class="logo-link"><img class="logo" src="/assets/site-home-image-1.webp" alt="NextGen Tabletops" decoding="async" width="35" height="35" /></a>
     </div>
-    <ul class="nav-menu" id="navMenu"><li><a href="/about">About</a><ul class="sub-menu"><li><a href="/who-are-we" class>Who are we?</a></li></ul></li><li><a href="/how-to-choose">How to Choose</a></li><li><a href="/products">Products</a></li><li><a href="/contact">Contact</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><div class="nav-search-box">
+    <ul class="nav-menu" id="navMenu"><li><a href="/about">About</a><ul class="sub-menu"><li><a href="/who-are-we" class>Who are we?</a></li></ul></li><li><a href="/how-to-choose">How to Choose</a></li>
+    <li class="menu-item-has-children zappy-products-dropdown">
+      <a href="/en/products">
+        Products
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 9l6 6 6-6"/>
+        </svg>
+      </a>
+      <ul class="sub-menu" id="zappy-nav-category-links" dir="ltr">
+        <li><a href="/en/products" data-i18n="ecom_products">Products</a></li>
+        <!-- Categories will be loaded dynamically -->
+      <li data-category-id="2e187ee8-464c-4d4e-ae0e-189b98f9c5a9" data-category-slug="board-games"><a href="/category/board-games" dir="ltr">Board games</a></li></ul>
+    </li>
+  <li><a href="/contact">Contact</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="Search products..." autocomplete="off" />
     <button class="nav-search-btn" id="nav-search-btn" title="Search">
       <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
@@ -1396,8 +1401,6 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
   })();
   </script>
   <a href="https://wa.me/97230000000" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
-    <div data-integration="accessibility:toolbar"></div>
-
 
     <script src="/script.js"></script>
 

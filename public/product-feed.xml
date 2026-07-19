@@ -4,12 +4,28 @@
     <title>NextGen Tabletops</title>
     <link>https://example.com</link>
     <description>Product feed for NextGen Tabletops</description>
-    <lastBuildDate>Thu, 16 Jul 2026 14:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:29:59 GMT</lastBuildDate>
     <item>
-      <g:id>2c75ac27-9687-4b84-8801-292dbe800d79</g:id>
-      <g:title>Chronos</g:title>
+      <g:id>89042a13-fdfc-4b4a-bbeb-74a55b24a018</g:id>
+      <g:title>Chronos - Blue</g:title>
       <g:description>Chronos: The Paradox Engine is a game of thread-siphoning and timeline weaving. Players are Time-Weavers of a crumbling multiverse trying to buy historical nodes, alternate realities, temporal anchors—all in order to acquire the most chrono-points. If you weave enough stable threads, you might even trigger an event from an Anomaly at some point, which of course will further shake up the timeline and increase your chrono-points.</g:description>
       <g:link>https://example.com/product/chronos-3lu2qv</g:link>
+      <g:item_group_id>2c75ac27-9687-4b84-8801-292dbe800d79</g:item_group_id>
+      <g:image_link>https://example.com/assets/image-product-image-1784105071787-g7gf3m.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 USD</g:price>
+      <g:sale_price>18.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Chronos Games</g:brand>
+      <g:mpn>chronosgames</g:mpn>
+      <g:product_type>Board games</g:product_type>
+    </item>
+    <item>
+      <g:id>d86f4664-75ac-4c14-8b7d-07794fff5209</g:id>
+      <g:title>Chronos - Pink</g:title>
+      <g:description>Chronos: The Paradox Engine is a game of thread-siphoning and timeline weaving. Players are Time-Weavers of a crumbling multiverse trying to buy historical nodes, alternate realities, temporal anchors—all in order to acquire the most chrono-points. If you weave enough stable threads, you might even trigger an event from an Anomaly at some point, which of course will further shake up the timeline and increase your chrono-points.</g:description>
+      <g:link>https://example.com/product/chronos-3lu2qv</g:link>
+      <g:item_group_id>2c75ac27-9687-4b84-8801-292dbe800d79</g:item_group_id>
       <g:image_link>https://example.com/assets/image-product-image-1784105071787-g7gf3m.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>20.00 USD</g:price>

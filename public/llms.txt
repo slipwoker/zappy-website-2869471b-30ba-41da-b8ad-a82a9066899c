@@ -25,11 +25,11 @@ Master the art of selecting age-appropriate board games and card games. Our guid
 https://example.com/products
 Our Products - NextGen Tabletops
 
-### Product Details
+### Product Detail
 https://example.com/product/:slug
 Product Details - NextGen Tabletops
 
-### Products
+### Category
 https://example.com/category/:slug
 Products - NextGen Tabletops
 
