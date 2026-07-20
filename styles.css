@@ -10226,6 +10226,29 @@ main,
 .home-features-section .home-features-section__card:hover {
   box-shadow: none !important;
 }
+
+@media (max-width: 768px) {
+.home-benefits-section-container .home-benefits-content {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+}
+
+.home-benefits-section-container .home-benefits-editorial {
+  overflow: visible !important;
+  min-width: 0 !important;
+}
+
+.home-benefits-section-container .home-benefits-item {
+  min-width: 0 !important;
+}
+
+.home-benefits-section-container .home-benefits-text {
+  min-width: 0 !important;
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
@@ -10559,7 +10582,9 @@ nav .sub-menu.zappy-empty-submenu,
   
   /* AI-generated section grids with common naming patterns */
   /* These often have fixed pixel column widths that don't adapt to mobile */
-  [class*="-grid"]:not([data-zappy-auto-grid]):not(.zappy-preserve-css-grid):not([data-zappy-explicit-columns="true"]) {
+  /* Exclude .zappy-qv-book-cal-grid — the booking date picker must stay 7-col
+     on mobile (Quick View + PDP). Class name matches [class*="-grid"]. */
+  [class*="-grid"]:not([data-zappy-auto-grid]):not(.zappy-preserve-css-grid):not([data-zappy-explicit-columns="true"]):not(.zappy-qv-book-cal-grid) {
     grid-template-columns: 1fr !important;
   }
   
