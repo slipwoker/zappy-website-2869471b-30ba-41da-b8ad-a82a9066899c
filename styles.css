@@ -10237,6 +10237,7 @@ main,
 .home-benefits-section-container .home-benefits-editorial {
   overflow: visible !important;
   min-width: 0 !important;
+  grid-template-columns: minmax(0, 1fr) !important;
 }
 
 .home-benefits-section-container .home-benefits-item {
