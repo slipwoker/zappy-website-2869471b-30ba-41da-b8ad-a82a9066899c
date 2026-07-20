@@ -10250,6 +10250,17 @@ main,
   word-break: break-word !important;
 }
 }
+
+@media (max-width: 768px) {
+#zappy-section-4 .home-showcase-section__gallery-item--small {
+  width: 100% !important;
+  align-self: stretch !important;
+}
+
+#zappy-section-4 .home-showcase-section__gallery-item--small img {
+  width: 100% !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
