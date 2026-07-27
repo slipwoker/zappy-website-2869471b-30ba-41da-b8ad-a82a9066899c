@@ -10608,6 +10608,107 @@ main,
     padding: 5px 12px;
   }
 }
+
+.nl-signup-section .nl-signup-image-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.nl-signup-section .nl-signup-card {
+  background: var(--background-color, var(--background, var(--bg-light, #ffffff)));
+  border: 1px solid var(--border-light);
+  border-radius: 16px;
+  padding: 28px 24px;
+  box-shadow: 0 6px 24px rgba(15,23,42,0.10);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 320px;
+  width: 100%;
+}
+
+.nl-signup-section .nl-signup-card-title {
+  font-family: 'Nunito Sans', 'Avenir Next', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin: 0;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--secondary);
+  display: inline-block;
+  width: fit-content;
+}
+
+.nl-signup-section .nl-signup-card-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.nl-signup-section .nl-signup-card-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.nl-signup-section .nl-signup-card-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+  margin-top: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+}
+
+.nl-signup-section .nl-signup-card-icon svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.nl-signup-section .nl-signup-card-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.nl-signup-section .nl-signup-card-text strong {
+  font-family: 'Nunito Sans', 'Avenir Next', sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  line-height: 1.4;
+}
+
+.nl-signup-section .nl-signup-card-text span {
+  font-family: 'Nunito Sans', 'Avenir Next', sans-serif;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.nl-signup-section .nl-signup-card-cta {
+  margin-top: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'Nunito Sans', 'Avenir Next', sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-decoration: none;
+  transition: gap 0.2s ease;
+  width: fit-content;
+}
+
+.nl-signup-section .nl-signup-card-cta:hover {
+  gap: 10px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
