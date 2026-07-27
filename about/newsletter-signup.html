@@ -2377,7 +2377,44 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
             </div>
         </div>
     </div>
-</section></main>
+</section>
+
+<section class="nl-signup-section" aria-labelledby="nl-signup-heading">
+  <div class="nl-signup-container">
+    <div class="nl-signup-content">
+      <div class="nl-signup-text">
+        <span class="nl-signup-badge">Stay in the Loop</span>
+        <h2 id="nl-signup-heading" class="nl-signup-heading">Sign Up for Epic Updates</h2>
+        <p class="nl-signup-description">Be the first to know about new releases, exclusive deals, and board game tips delivered straight to your inbox. No spam — just pure tabletop joy!</p>
+      </div>
+      <div class="nl-signup-image-wrapper">
+        <img data-placeholder="nl-signup-illustration-1" data-context="Playful board game pieces and dice floating around a newsletter envelope, bright and whimsical illustration style with blue and yellow accents" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="Board game newsletter illustration" class="nl-signup-illustration" loading="lazy" decoding="async" fetchpriority="low" />
+      </div>
+    </div>
+    <form class="nl-signup-form" aria-label="Newsletter signup form">
+      <div class="nl-signup-fields">
+        <div class="nl-signup-field-group">
+          <label for="nl-name" class="nl-signup-label">Your Name</label>
+          <input type="text" id="nl-name" name="name" class="nl-signup-input" placeholder="Enter your name" autocomplete="given-name" />
+        </div>
+        <div class="nl-signup-field-group">
+          <label for="nl-email" class="nl-signup-label">Email Address <span aria-hidden="true">*</span></label>
+          <input type="email" id="nl-email" name="email" class="nl-signup-input" placeholder="you@example.com" required autocomplete="email" aria-required="true" />
+        </div>
+      </div>
+      <button type="submit" class="nl-signup-submit">
+        <span class="nl-signup-submit-text">Join the Adventure</span>
+        <svg class="nl-signup-submit-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="5" y1="12" x2="19" y2="12"/>
+          <polyline points="12 5 19 12 12 19"/>
+        </svg>
+      </button>
+      <p class="nl-signup-disclaimer">We respect your privacy. Unsubscribe anytime.</p>
+    </form>
+  </div>
+</section>
+
+</main>
   
   <footer class="site-footer">
   <div class="footer-container">
