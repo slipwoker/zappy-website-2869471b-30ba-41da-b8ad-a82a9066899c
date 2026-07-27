@@ -10261,6 +10261,22 @@ main,
   width: 100% !important;
 }
 }
+
+.home-benefits-section .home-benefits-heading {
+  color: var(--background-color, var(--background, var(--bg-light, #ffffff)));
+}
+
+.home-benefits-section .home-benefits-paragraph {
+  color: var(--background-color, var(--background, var(--bg-light, #ffffff)));
+}
+
+.home-benefits-section .home-benefits-item-title {
+  color: var(--background-color, var(--background, var(--bg-light, #ffffff)));
+}
+
+.home-benefits-section .home-benefits-item-desc {
+  color: var(--background-color, var(--background, var(--bg-light, #ffffff)));
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
