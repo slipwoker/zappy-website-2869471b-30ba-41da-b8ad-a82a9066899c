@@ -11689,6 +11689,17 @@ main,
   width: 100% !important;
 }
 }
+
+#zappy-section-4 .home-showcase-section__gallery-item--large {
+  background-color: transparent !important;
+}
+
+#zappy-section-4 .home-showcase-section__gallery-item--large img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
