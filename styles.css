@@ -10875,6 +10875,20 @@ main,
 .nl-signup-section .nl-signup-card-cta:hover {
   gap: 10px;
 }
+
+.home-showcase-section__gallery {
+  grid-template-columns: repeat(3, 1fr) !important;
+}
+
+.home-showcase-section__gallery-item--large {
+  grid-area: span 1 / span 1 !important;
+  aspect-ratio: 1 / 1 !important;
+}
+
+.home-showcase-section__gallery-item--small {
+  grid-area: span 1 / span 1 !important;
+  aspect-ratio: 1 / 1 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
